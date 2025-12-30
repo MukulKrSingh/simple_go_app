@@ -1,0 +1,3 @@
+module simple_go_app
+
+go 1.24.4
